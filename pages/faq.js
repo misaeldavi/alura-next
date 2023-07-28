@@ -1,4 +1,4 @@
-import FAQScreen from '../src/screens/FaqScreem/index';
+import FAQScreen from '../src/screens/FAQScreem/index';
 export default FAQScreen;
 
 export async function getStaticProps() {
